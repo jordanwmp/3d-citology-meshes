@@ -1,0 +1,5 @@
+https://github.com/jordanwmp/3d-citology-meshes/blob/master/animal_cell.glb
+
+https://raw.githubusercontent.com/jordanwmp/3d-citology-meshes/master/ "animal_cell.glb"
+
+https://raw.githubusercontent.com/jordanwmp/3d-citology-meshes/master/animal_cell.glb
